@@ -1,4 +1,4 @@
-# 🎯 Claude Code & Cowork: Practical Problem-Solving Exercises
+# Claude Code & Cowork: Practical Problem-Solving Exercises
 
 **By Panaversity — Learn by Doing, Not by Reading**
 
